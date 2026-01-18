@@ -12,7 +12,7 @@ An educational, experiential system designed to help people understand how Wi-Fi
 
 
 **To run:**
--Update Wi-Fi settings to your SSID and pass
--Upload and compile all the code to the ESP 32's
--Wait for a while
--Open the URL that is shown in the Serial Monitor
+1. Update Wi-Fi settings to your SSID and pass
+2. Upload and compile all the code to the ESP 32's
+3. Wait for a while
+4. Open the URL that is shown in the Serial Monitor

@@ -1,3 +1,5 @@
+**EDIT**: THIS PROJECT HAS WON THE BEST HARDWARE HACK AWARD AT HACK AND ROLL 2026 ORGANISED BY NUS HACKERS.
+
 # **WiGhost**
 An educational, experiential system designed to help people understand how Wi-Fi actually works in the real world, including interference, contention, adaptation, and human impact by turning Wi-Fi into something visible, physical, and interactive.
 
